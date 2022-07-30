@@ -1,0 +1,20 @@
+{
+  "name": "user-details-api",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1",
+    "node-fetch": "^3.2.3",
+    "@octokit/core": "^4.0.2",
+    "@octokit/rest": "^19.0.3",
+    "@octokit/types": "^6.39.0",
+    "octokit": "^2.0.2"
+  }
+}
